@@ -1,5 +1,5 @@
 # Late-show
-![lateshow](https://github.com/crevavo/Late-show/assets/10239961/4f70b8eb-1703-4874-a58c-0622a1f9ae9b)
+![lateshow](https://github.com/crevavo/Late-show/assets/10239961/a71ea363-81c0-4f55-8a5e-3dd53856ed3b)
 
 動画を超ゆっくり再生する電子ペーパーディスプレイ
 
