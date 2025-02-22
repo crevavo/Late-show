@@ -9,6 +9,9 @@
 動画のどのシーンもすべて好きという方は、飾っておくのにちょうどかと思います。
 一瞬だけおもしろく見えるフレームを発見できるかもしれません。
 
+M5Paper を利用。
+
+
 E-paper display with ultra-slow video playback
 
 The display switches screens every minute for playback.
@@ -16,3 +19,8 @@ A 3-minute movie can take 10 hours to watch.
 
 If you like every scene in every movie, it is perfect for display.
 You may discover a frame that looks interesting for a moment.
+
+Need M5Paper
+
+## Site
+[Lateshow - Slow E-Ink movie player](https://hyogo.dev/works/late-show)
